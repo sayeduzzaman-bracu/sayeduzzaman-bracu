@@ -1,16 +1,45 @@
-## Hi there 👋
+# Sayed Uz Zaman
 
-<!--
-**sayeduzzaman-bracu/sayeduzzaman-bracu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Agent Developer | Python Automation | Data Processing
 
-Here are some ideas to get you started:
+I build AI agents and automation systems that solve real-world data and workflow problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Key Projects
+
+### 🧠 BusBuzz AI Agent
+AI-powered support agent for intercity bus ticket queries.
+
+🏆 Second Prize – AgentX AI Support Automation Challenge
+
+https://github.com/sayeduzzaman-bracu/BusBuzz-AI-Agent
+
+---
+
+### ⚙️ Excel Data Cleaning Automation
+Python automation tool for cleaning messy Excel and CSV datasets.
+
+Features:
+- duplicate removal
+- column standardization
+- missing value handling
+- automated clean dataset export
+
+https://github.com/sayeduzzaman-bracu/excel-data-cleaning-automation
+
+---
+
+## Skills
+
+Python  
+Prompt Engineering  
+AI Agent Design  
+Data Cleaning & Processing  
+SQL (learning)
+
+---
+
+## Currently Learning
+
+SQL and data systems to build stronger AI automation pipelines.
