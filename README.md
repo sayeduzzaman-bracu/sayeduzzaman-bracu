@@ -2,7 +2,7 @@
 
 AI Agent Developer | Python Automation | Data Processing
 
-I build AI agents and automation systems that solve real-world data and workflow problems.
+I build AI agents and automation systems that solve real-world workflow and data problems.
 
 ---
 
@@ -11,7 +11,7 @@ I build AI agents and automation systems that solve real-world data and workflow
 ### 🧠 BusBuzz AI Agent
 AI-powered support agent for intercity bus ticket queries.
 
-🏆 Second Prize – AgentX AI Support Automation Challenge
+🏆 Second Prize – AgentX AI Support Automation Challenge 2025
 
 https://github.com/sayeduzzaman-bracu/BusBuzz-AI-Agent
 
