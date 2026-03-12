@@ -35,6 +35,10 @@ https://github.com/sayeduzzaman-bracu/excel-data-cleaning-automation
 ### BusBuzz — AI Customer Support Agent
 AI-powered customer support assistant designed to automate bus ticket queries and travel support conversations.
 
+Assistant:
+https://chatgpt.com/g/g-69ad06d5fa988191bed3a0420ee33dd0-busbuzz
+
+Repository:
 https://github.com/sayeduzzaman-bracu/BusBuzz-AI-Agent
 
 ---
@@ -42,6 +46,7 @@ https://github.com/sayeduzzaman-bracu/BusBuzz-AI-Agent
 ### FarmOps BD — Agricultural AI Assistant
 AI assistant designed to support farmers with crop guidance, agricultural insights, and farm management recommendations.
 
+Repository:
 https://github.com/sayeduzzaman-bracu/FarmOps-BD
 
 ---
