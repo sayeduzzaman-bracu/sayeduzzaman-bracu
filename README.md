@@ -56,7 +56,7 @@ SQL (currently learning)
 
 ---
 
-###Services I Can Provide
+## Services I Can Provide
 
 • Data cleaning and preprocessing (Excel, CSV, datasets)
 • Python automation scripts
@@ -72,4 +72,4 @@ SQL (currently learning)
 SQL and data systems to build stronger AI automation pipelines.
 
 
-###If you need help automating a repetitive task, cleaning messy data, or building a custom Python automation tool, feel free to explore my repositories.
+## If you need help automating a repetitive task, cleaning messy data, or building a custom Python automation tool, feel free to explore my repositories.
