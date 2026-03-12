@@ -1,6 +1,7 @@
 # Sayed Uz Zaman
 
-Python Automation Engineer | AI Agents | Data Cleaning & Workflow Automation
+Python Automation Engineer | AI Agents | Data Cleaning & Workflow Automation.
+
 Helping businesses automate repetitive data and reporting tasks.
 
 I build Python automation tools and AI agents that help businesses clean data, automate repetitive workflows, and generate reports automatically.
