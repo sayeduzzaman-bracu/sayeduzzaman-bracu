@@ -1,6 +1,6 @@
 # Sayed Uz Zaman
 
-AI Agent Developer | Python Automation | Data Processing
+Python Automation | AI Agent Developer | Data Processing
 
 I build AI agents and automation systems that solve real-world workflow and data problems.
 
