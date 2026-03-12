@@ -6,7 +6,7 @@ Helping businesses automate repetitive data and reporting tasks.
 
 I build Python automation tools and AI agents that help businesses clean data, automate repetitive workflows, and generate reports automatically.
 
-My focus is practical automation systems that save time and remove manual work.
+My focus is practical automation systems that remove manual work and save time.
 
 ---
 
