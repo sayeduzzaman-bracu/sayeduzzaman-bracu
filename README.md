@@ -6,27 +6,37 @@ I build AI agents and automation systems that solve real-world workflow and data
 
 ---
 
-## Key Projects
+## Automation & AI Projects
 
-### 🧠 BusBuzz AI Agent
-AI-powered support agent for intercity bus ticket queries.
+### .pyLee — Python Automation Engineer Assistant
+AI assistant designed to generate practical Python automation scripts for data processing, scraping, reporting, and engineering workflows.
 
-🏆 Second Prize – AgentX AI Support Automation Challenge 2025
+Assistant:
+https://chatgpt.com/g/g-69b25ed3ada48191a28fd6c6563555b5-pylee
+
+Repository:
+https://github.com/sayeduzzaman-bracu/pyLee-python-automation-assistant
+
+---
+
+### Excel Data Cleaning Automation
+Python tool that automatically cleans messy Excel datasets by removing duplicates, standardizing column names, trimming whitespace, and exporting cleaned files.
+
+https://github.com/sayeduzzaman-bracu/excel-data-cleaning-automation
+
+---
+
+### BusBuzz — AI Customer Support Agent
+AI-powered assistant designed to automate bus ticket queries and travel support conversations.
 
 https://github.com/sayeduzzaman-bracu/BusBuzz-AI-Agent
 
 ---
 
-### ⚙️ Excel Data Cleaning Automation
-Python automation tool for cleaning messy Excel and CSV datasets.
+### FarmOps BD — Agricultural AI Assistant
+AI assistant designed to help farmers with crop guidance, agricultural insights, and farm management support.
 
-Features:
-- duplicate removal
-- column standardization
-- missing value handling
-- automated clean dataset export
-
-https://github.com/sayeduzzaman-bracu/excel-data-cleaning-automation
+https://github.com/sayeduzzaman-bracu/FarmOps-BD
 
 ---
 
